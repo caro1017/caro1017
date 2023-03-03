@@ -13,31 +13,19 @@
 
 🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can. <br>  
 🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.<br>    
-🛠  I have knowledge in HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd) Scrum. I'm learning React , Angular, MySQL but I'm open to learning any other technology! <br>    
+🛠  I have knowledge in HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd), java, Scrum. I'm learning React , Angular, MySQL but I'm open to learning any other technology! <br>    
 🎨  I am a highly creative person. I love generating attractive experiences, not only visually but also functionally, paying special attention on details. I like being part of a team because I can learn from my teammates and bring my knowledge in order to achieve goals.<br>  
 💼 If you want to know more about me, you can visit <a href="https://portafolio-carolina-uribe-botero.netlify.app/"> my portfolio </a>
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
 <div> 
-  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"  width="50px">
+  <h6> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"  width="50px"> Html </h6> 
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"  width="50px">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  width="50px">
 </div>
 
 
 
 
-<!--
-**caro1017/caro1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
