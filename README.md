@@ -63,31 +63,6 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" style="max-width: 100%;">
-      </a>
-      <br>Redux
-    </td>
-    
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/b3c60985de9c613b233acb4d5c3b620bbaec04d217c03b600b18e870712b53c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64392f4e6f64652e6a735f6c6f676f2e737667" width="50" height="50" alt="NodeJS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width: 100%;">
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="100"> 
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="50" height="50" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>Express.js
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" style="max-width: 100%;">
-      </a>
-      <br>PostgreSQL
-    </td>
   </tr>
 </tbody></table>
 
