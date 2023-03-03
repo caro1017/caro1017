@@ -12,12 +12,11 @@
 
 🙋🏼‍♀️ Soy Desarrolladora Frontend jr | Estudiante
   
-🚀  Diseñadora que esta apacionada por el desarrollo
+🚀 Diseñadora que esta apacionada por el desarrollo
   
-🛠  Conocimientos en HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd), java, Scrum. 
-        ¡Estoy aprendiendo React, Angular, MySQL pero estoy abierto a aprender cualquier otra tecnología!
+🛠 Lenguajes desde la parte del frontend
   
-🎨  Soy una persona altamente creativa. Me encanta generar experiencias atractivas, no solo a nivel visual sino también funcional, prestando especial atención a los detalles.
+🎨 Creativa y reseptiva a la necesidad del cliente
   
 💼 Puedes visitar <a href="https://portafolio-carolina-uribe-botero.netlify.app/"> mi Portafolio</a>
   
