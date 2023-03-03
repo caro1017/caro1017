@@ -10,7 +10,7 @@
   
 <h2> About Me ✨ </h2>
 
-_🙋🏼‍♀️ I'm a front-end development student from Colombia, who loves programming and learning as much as I can._
+🙋🏼‍♀️ I'm a front-end development student from Colombia, who loves programming and learning as much as I can.
   
 🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.
   
@@ -24,12 +24,21 @@ _🙋🏼‍♀️ I'm a front-end development student from Colombia, who loves 
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
-<div> 
-  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"  width="50px"> 
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"  width="50px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  width="50px">
-  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"  width="50px">
-</div>
+<table align="center">
+
+</table>
+  <tbody>
+    <tr>
+      <td align="center" width="100">
+        <a href="#">
+        <img src="https://camo.githubusercontent.com/afd3139a285295c960e8cab5f69d684aaf3831c631e218ae4483a29cd450f7d0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e737667" width="50" height="50" alt="HTML5" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="max-width: 100%;">
+      </a>
+        <br>
+        "HTML5 "
+      </td>
+    </tr>
+  </tbody>
+
 
 
 
