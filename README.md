@@ -11,8 +11,10 @@
 <h2 align="center"> Portafolio 💼 </h2>
 
 
-<p> 
-  <a align="center" href="https://portafolio-carolina-uribe-botero.netlify.app/"> Carolina Uribe Botero Portafolio</a>
+<p align="center"> 
+  <a align="center" href="https://portafolio-carolina-uribe-botero.netlify.app/">
+    <img src="https://cdn-icons-png.flaticon.com/512/8644/8644474.png">
+    Carolina Uribe Botero Portafolio</a>
 </p> 
   
 <h2 align="center"> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
