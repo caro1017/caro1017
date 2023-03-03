@@ -111,10 +111,10 @@
   <h2> Connect with me ✨</h2>
   <div  align="center" width="100">
       <a href="mailto:uribebotero.carolina@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" style="max-width: 100%, padding:5px">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" style="max-width: 100%, margin-right: 1.25rem;">
       </a>
         <a href="https://www.linkedin.com/in/carolina-uribe-botero-7b0839195">
-        <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40" alt="Email" style="max-width: 100%;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30" height="30" alt="Linkedin" style="max-width: 100%, margin-right: 1.25rem;">
       </a>
   </div>
 
