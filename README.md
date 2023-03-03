@@ -6,7 +6,7 @@
 </p>
   
 <h2 align="center"> About Me ✨ </h2>
-<div align="center" width="30px"> 
+<div width="10px"> 
 🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can.
   
 🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.
