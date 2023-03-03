@@ -111,10 +111,10 @@
   <h2> Connect with me ✨</h2>
   <div  align="center" width="100">
       <a href="mailto:uribebotero.carolina@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" style="max-width: 100%;">
+       <img src="https://camo.githubusercontent.com/5e1eb2665e70b8f3090d6d471f7cd75eb8e2081b1ecd7181f0b932e55fa19a5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d474d41494c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
       </a>
         <a href="https://www.linkedin.com/in/carolina-uribe-botero-7b0839195">
-        <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40" alt="Linkedin" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/5e1eb2665e70b8f3090d6d471f7cd75eb8e2081b1ecd7181f0b932e55fa19a5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d474d41494c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
       </a>
   </div>
 
