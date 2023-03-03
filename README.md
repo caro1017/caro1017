@@ -10,14 +10,7 @@
   
 <h2> Sobre mi ✨ </h2>
 
-🙋🏼‍♀️ Soy Desarrolladora Frontend jr | Estudiante
-  
-🚀 Diseñadora que esta apacionada por el desarrollo
-  
-🛠 Lenguajes desde la parte del frontend
-  
-🎨 Creativa y reseptiva a la necesidad del cliente
-  
+
 💼 Puedes visitar <a href="https://portafolio-carolina-uribe-botero.netlify.app/"> mi Portafolio</a>
   
 
