@@ -7,7 +7,7 @@
   
 <h2 align="center"> About Me ✨ </h2>
   
-<h5 align="center"> 🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can.</h5>
+<h5 font-size=5rem> 🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can.</h5>
   
 🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.
   
