@@ -11,7 +11,7 @@
   
 <h2> About Me ✨ </h2>
 
-<div size="20px">  
+<p style="color:blue; font-size:14px;">  
 🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can.
   
 🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.
@@ -22,7 +22,7 @@
   
 💼 If you want to know more about me, you can visit <a href="https://portafolio-carolina-uribe-botero.netlify.app/"> my portfolio </a>
   
-</div>
+<p>
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
