@@ -5,9 +5,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'am+Carolina+Uribe+Botero..&hearts;++;Designer|Front-End+Developer;Software+development+student..<3"></a>
 </p>
   
-<h2> About Me ✨ </h2>
+<h2 align="center"> About Me ✨ </h2>
   
-🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can.
+<p align="center" width="40px"> 🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can.</p>
   
 🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.
   
