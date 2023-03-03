@@ -6,15 +6,15 @@
 </p>
   
 <h2 align="center"> About Me ✨ </h2>
-<ul> 
-<li> 🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can.</li>
+<div align="center" width="30px"> 
+🙋🏼‍♀️  I'm a front-end development student from Colombia, who loves programming and learning as much as I can.
   
-<li> 🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.</li>
+🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.
   
-<li>🛠  I have knowledge in HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd) Scrum. I'm learning React , Angular, MySQL but I'm open to learning any other technology!</li>
+🛠  I have knowledge in HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd) Scrum. I'm learning React , Angular, MySQL but I'm open to learning any other technology!
   
-<li>🎨  I am a highly creative person. I love generating attractive experiences, not only visually but also functionally, paying special attention on details. I like being part of a team because I can learn from my teammates and bring my knowledge in order to achieve goals.</li>
-</ul> 
+🎨  I am a highly creative person. I love generating attractive experiences, not only visually but also functionally, paying special attention on details. I like being part of a team because I can learn from my teammates and bring my knowledge in order to achieve goals.
+</div> 
 
 
 
