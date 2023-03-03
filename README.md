@@ -25,7 +25,8 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
 <table>
-  <tbody><tr>
+  <tbody>
+    <tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://camo.githubusercontent.com/afd3139a285295c960e8cab5f69d684aaf3831c631e218ae4483a29cd450f7d0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e737667" width="50" height="50" alt="HTML5" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="max-width: 100%;">
@@ -62,7 +63,9 @@
       </a>
       <br>React
     </td>
-         <td align="center" width="100">
+      </tr>
+    <tr>
+      <td align="center" width="100">
       <a href="#">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50" height="50" alt="Java" style="max-width: 100%;">
       </a>
@@ -81,6 +84,25 @@
       </a>
       <br>Figma
     </td>
+     <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="50" height="50" alt="Illustratir" style="max-width: 100%;">
+      </a>
+      <br>Illustrator
+    </td>
+       <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="50" height="50" alt="Photoshop" style="max-width: 100%;">
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" width="50" height="50" alt="Adobe XD" style="max-width: 100%;">
+      </a>
+      <br>Adobe XD
+    </td>  
+    </tr>    
    
 </tbody>
   </table>
