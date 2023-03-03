@@ -10,15 +10,16 @@
   
 <h2> Sobre mi ✨ </h2>
 
-🙋🏼‍♀️ Soy un estudiante de desarrollo front-end de Colombia, a quien le encanta programar y aprender tanto como pueda.
+🙋🏼‍♀️ Soy Desarrolladora Frontend jr | Estudiante
   
-🚀  Después de graduarme como diseñadora y trabajar en el área, sentí curiosidad por el desarrollo el cual me cautivó desde el principio, comenzando con cursos y ahora con la tecnología.
+🚀  Diseñadora que esta apacionada por el desarrollo
   
-🛠  Tengo conocimientos en HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd), java, Scrum. ¡Estoy aprendiendo React, Angular, MySQL pero estoy abierto a aprender cualquier otra tecnología!
+🛠  Conocimientos en HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd), java, Scrum. 
+        ¡Estoy aprendiendo React, Angular, MySQL pero estoy abierto a aprender cualquier otra tecnología!
   
-🎨  Soy una persona altamente creativa. Me encanta generar experiencias atractivas, no solo a nivel visual sino también funcional, prestando especial atención a los detalles. Me gusta formar parte de un equipo porque puedo aprender de mis compañeros y aportar mis conocimientos para alcanzar los objetivos.
+🎨  Soy una persona altamente creativa. Me encanta generar experiencias atractivas, no solo a nivel visual sino también funcional, prestando especial atención a los detalles.
   
-💼 Si quieres saber más de mí, puedes visitar <a href="https://portafolio-carolina-uribe-botero.netlify.app/"> mi Portafolio</a>
+💼 Puedes visitar <a href="https://portafolio-carolina-uribe-botero.netlify.app/"> mi Portafolio</a>
   
 
   
