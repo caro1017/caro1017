@@ -56,7 +56,7 @@
       </a>
       <br>Bootstrap
     </td>
-          <td align="center" width="100">
+    <td align="center" width="100">
       <a href="#">
         <img src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width="50" height="50" alt="React" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
       </a>
@@ -67,6 +67,19 @@
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50" height="50" alt="Java" style="max-width: 100%;">
       </a>
       <br>Java
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://camo.githubusercontent.com/b3c60985de9c613b233acb4d5c3b620bbaec04d217c03b600b18e870712b53c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64392f4e6f64652e6a735f6c6f676f2e737667" width="50" height="50" alt="NodeJS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width: 100%;">
+      </a>
+      <br>Node.js
+    </td>
+        </td>
+         <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" height="50" alt="Figma" style="max-width: 100%;">
+      </a>
+      <br>Figma
     </td>
    
 </tbody>
