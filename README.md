@@ -1,8 +1,6 @@
 
 
-### <h1 align='center'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+### <h1 align="center">Hola ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Carolina Uribe Botero</h1>
   
 <br>
 
