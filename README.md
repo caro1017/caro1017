@@ -107,8 +107,10 @@
 </tbody>
   </table>
   
-  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
+  <h2> Connect with me ✨</h2>
+      <a href="uribebotero.carolina@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50" alt="Email" style="max-width: 100%;">
+      </a>
 
 
 
