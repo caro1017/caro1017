@@ -106,9 +106,10 @@
    
 </tbody>
   </table>
+  <br>
   
   <h2> Connect with me ✨</h2>
-      <a href="uribebotero.carolina@gmail.com">
+      <a href="mailto:uribebotero.carolina@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50" alt="Email" style="max-width: 100%;">
       </a>
 
