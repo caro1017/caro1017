@@ -1,11 +1,11 @@
 
-### <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> < Developers/ >!</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> < Developers/ >!</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'am+Carolina+Uribe+Botero..&hearts;++;Designer|Front-End+Developer;Software+development+student..<3"></a>
 </p>
   
-## <h2> About Me </h2>
+<h2> About Me </h2>
 
 
 
