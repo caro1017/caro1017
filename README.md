@@ -4,25 +4,25 @@
   
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'am+Carolina+Uribe+Botero..&hearts;++;Designer|Front-End+Developer;Software+development+student..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Carolina+Uribe+Botero..&hearts;++;Diseñadora|Desarroladora+Front-End;Estudiante+desarrollo+software..<3">
   </a>
 </p>
   
-<h2> About Me ✨ </h2>
+<h2> Sobre mi ✨ </h2>
 
-🙋🏼‍♀️ I'm a front-end development student from Colombia, who loves programming and learning as much as I can.
+🙋🏼‍♀️ Soy un estudiante de desarrollo front-end de Colombia, a quien le encanta programar y aprender tanto como pueda.
   
-🚀  After graduating as a designer and working in the area, I felt curious about the development which captivated me from the beginning, starting with courses and now with technology.
+🚀  Después de graduarme como diseñadora y trabajar en el área, sentí curiosidad por el desarrollo el cual me cautivó desde el principio, comenzando con cursos y ahora con la tecnología.
   
-🛠  I have knowledge in HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd), java, Scrum. I'm learning React , Angular, MySQL but I'm open to learning any other technology!
+🛠  Tengo conocimientos en HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator|Potoshop|Adobe xd), java, Scrum. ¡Estoy aprendiendo React, Angular, MySQL pero estoy abierto a aprender cualquier otra tecnología!
   
-🎨  I am a highly creative person. I love generating attractive experiences, not only visually but also functionally, paying special attention on details. I like being part of a team because I can learn from my teammates and bring my knowledge in order to achieve goals.
+🎨  Soy una persona altamente creativa. Me encanta generar experiencias atractivas, no solo a nivel visual sino también funcional, prestando especial atención a los detalles. Me gusta formar parte de un equipo porque puedo aprender de mis compañeros y aportar mis conocimientos para alcanzar los objetivos.
   
-💼 If you want to know more about me, you can visit <a href="https://portafolio-carolina-uribe-botero.netlify.app/"> my portfolio </a>
+💼 Si quieres saber más de mí, puedes visitar <a href="https://portafolio-carolina-uribe-botero.netlify.app/"> mi Portafolio</a>
   
 
   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
 <table align="center">
   <tbody>
@@ -108,7 +108,7 @@
   </table>
   <br>
   
-  <h2> Connect with me ✨</h2>
+  <h2> Contactame ✨</h2>
   <div  align="center" width="100">
       <a href="mailto:uribebotero.carolina@gmail.com">
        <img src="https://camo.githubusercontent.com/5e1eb2665e70b8f3090d6d471f7cd75eb8e2081b1ecd7181f0b932e55fa19a5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d474d41494c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
