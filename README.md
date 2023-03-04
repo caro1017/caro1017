@@ -96,13 +96,13 @@
   <br>
   
   <h3 align="center"> Contactame ✨</h3>
-  <button> Click </button>
+  
   <div  align="center" width="100">
       <a href="mailto:uribebotero.carolina@gmail.com">
-       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="30">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
         <a href="https://www.linkedin.com/in/carolina-uribe-botero-7b0839195">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
       <a href="https://portafolio-carolina-uribe-botero.netlify.app/">
         <img src="https://cdn-icons-png.flaticon.com/512/3476/3476457.png" width="30">
