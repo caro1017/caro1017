@@ -110,7 +110,7 @@
   </div>
    <div  align="center" width="100">
     <h5>
-      _<a href="https://portafolio-carolina-uribe-botero.netlify.app/">Portafolio Carolina Uribe Botero</a>_
+      <a href="https://portafolio-carolina-uribe-botero.netlify.app/">Portafolio Carolina Uribe Botero</a>
     </h5>
    </div>
 
