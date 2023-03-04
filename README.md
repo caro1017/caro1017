@@ -107,6 +107,9 @@
       <a href="https://portafolio-carolina-uribe-botero.netlify.app/">
         <img src="https://cdn-icons-png.flaticon.com/512/3476/3476457.png" width="30">
       </a>
+      <a href="https://discord.com/channels/@Carolina Uribe Botero#5524">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+      </a>
   </div>
 
 
