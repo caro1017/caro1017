@@ -9,15 +9,14 @@
 </p>
 
 <h3 align="center"> Sobre mi </h3>
-  <p align="center">
-  🙋🏼‍♀️ Soy una estudiante de desarrollo Software, a quien le encanta programar y aprender tanto como pueda.
+🙋🏼‍♀️ Soy una estudiante de desarrollo Software, a quien le encanta programar y aprender tanto como pueda.
 
 🚀 Después de graduarme como diseñadora y trabajar en el área, sentí curiosidad por el desarrollo el cual me cautivó desde el principio, comenzando con cursos y ahora con la tecnología.
 
 🛠 Tengo conocimientos en HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator | Potoshop | Adobe xd), Java, Scrum. ¡Estoy aprendiendo React, y estoy abierta para aprender cualquier otra tecnología!
 
 🎨 Soy una persona altamente creativa. Me encanta generar experiencias atractivas, no solo a nivel visual sino también funcional, prestando especial atención a los detalles. Me gusta formar parte de un equipo porque puedo aprender de mis compañeros y aportar mis conocimientos para alcanzar los objetivos.
-  </p>  
+
   
   
   
