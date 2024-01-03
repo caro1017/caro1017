@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center"> Sobre mi </h3>
+<h3 align="center"> Sobre mi ✨ </h3>
 🙋🏼‍♀️ Soy diseñadora y desarrolladora frontend,tengo una gran pasión por los efectos de interfaz de usuario, la creación de experiencia de usuario intuitivo y dinámicas. Me destaco por ser una persona organizada, solucionadora de problemas, una gran atención al detalle y apasionada por el estudio. Aficionada por el deporte, actividades al aire libre. Estudiante en desarrollo de software y aéreas a fines involucrados directamente en frontend, brindando un mejor conocimiento en el área del desarrollo con mi experiencia en el diseño..  
   
   
@@ -51,7 +51,7 @@
       <a href="#">
         <img src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width="50" height="50" alt="React" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
       </a>
-      <br>React
+      <br>ReactJs
     </td>
       </tr>
     <tr>
@@ -63,9 +63,9 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/b3c60985de9c613b233acb4d5c3b620bbaec04d217c03b600b18e870712b53c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64392f4e6f64652e6a735f6c6f676f2e737667" width="50" height="50" alt="NodeJS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width: 100%;">
+        <svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" preserveAspectRatio="xMidYMid"><defs><linearGradient id="c" x1="55.633%" x2="83.228%" y1="56.385%" y2="96.08%"><stop offset="0%" stop-color="#FFF"/><stop offset="100%" stop-color="#FFF" stop-opacity="0"/></linearGradient><linearGradient id="d" x1="50%" x2="49.953%" y1="0%" y2="73.438%"><stop offset="0%" stop-color="#FFF"/><stop offset="100%" stop-color="#FFF" stop-opacity="0"/></linearGradient><circle id="a" cx="128" cy="128" r="128"/></defs><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><g mask="url(#b)"><circle cx="128" cy="128" r="128"/><path fill="url(#c)" d="M212.634 224.028 98.335 76.8H76.8v102.357h17.228V98.68L199.11 234.446a128.433 128.433 0 0 0 13.524-10.418Z"/><path fill="url(#d)" d="M163.556 76.8h17.067v102.4h-17.067z"/></g></svg>
       </a>
-      <br>Node.js
+      <br>NextJs
     </td>
         </td>
          <td align="center" width="100">
