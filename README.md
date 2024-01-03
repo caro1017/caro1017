@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> < Hola/ >!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> < Hola/ >! Bienvenidos
 </h1>
   
 <p align="center">
@@ -9,15 +9,7 @@
 </p>
 
 <h3 align="center"> Sobre mi </h3>
-🙋🏼‍♀️ Soy una estudiante de desarrollo Software, a quien le encanta programar y aprender tanto como pueda.
-
-🚀 Después de graduarme como diseñadora y trabajar en el área, sentí curiosidad por el desarrollo el cual me cautivó desde el principio, comenzando con cursos y ahora con la tecnología.
-
-🛠 Tengo conocimientos en HTML, CSS, SASS, JavaScript, Bootstrap, Figma, Adobe (Illustrator | Potoshop | Adobe xd), Java, Scrum. ¡Estoy aprendiendo React, y estoy abierta para aprender cualquier otra tecnología!
-
-🎨 Soy una persona altamente creativa. Me encanta generar experiencias atractivas, no solo a nivel visual sino también funcional, prestando especial atención a los detalles. Me gusta formar parte de un equipo porque puedo aprender de mis compañeros y aportar mis conocimientos para alcanzar los objetivos.
-
-  
+🙋🏼‍♀️ Soy diseñadora y desarrolladora frontend,tengo una gran pasión por los efectos de interfaz de usuario, la creación de experiencia de usuario intuitivo y dinámicas. Me destaco por ser una persona organizada, solucionadora de problemas, una gran atención al detalle y apasionada por el estudio. Aficionada por el deporte, actividades al aire libre. Estudiante en desarrollo de software y aéreas a fines involucrados directamente en frontend, brindando un mejor conocimiento en el área del desarrollo con mi experiencia en el diseño..  
   
   
 <h3 align="center"> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
