@@ -57,9 +57,9 @@
     <tr>
       <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50" height="50" alt="Java" style="max-width: 100%;">
+        <img src="https://i.postimg.cc/nVqgzf1B/tailwind.png" width="50" height="50" alt="Java" style="max-width: 100%;">
       </a>
-      <br>Java
+      <br>Tailwind
     </td>
     <td align="center" width="100">
       <a href="#">
